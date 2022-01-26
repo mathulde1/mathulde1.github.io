@@ -151,11 +151,6 @@
   .accordion {
     background-color: transparent;
     color: rgb(253, 253, 253);
-    text-shadow:
-    -1px -1px 1px #000,
-    1px -1px 1px #000,
-    -1px 1px 1px #000,
-    1px 1px 1px #000; 
     cursor: pointer;
     padding: 18px;
     width: 100%;
